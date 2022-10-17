@@ -102,7 +102,9 @@ class Zmq
                 ]);
             }            
 
-            $connection->send($channel, \ZMQ::MODE_SNDMORE)->send($payload);
+            //$connection->send($channel, \ZMQ::MODE_SNDMORE)->send($payload);
         }
+
+        $connection->send($payload);
     }
 }
