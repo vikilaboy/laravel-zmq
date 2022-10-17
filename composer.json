@@ -1,6 +1,6 @@
 {
-    "name": "pelim/laravel-zmq",
-    "description": "A ZeroMQ broadcast driver for Laravel 5-6",
+    "name": "vikilaboy/laravel-zmq",
+    "description": "A ZeroMQ broadcast driver for Laravel 5-9",
     "license": "MIT",
     "authors": [
         {
