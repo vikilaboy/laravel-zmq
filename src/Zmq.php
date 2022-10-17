@@ -1,10 +1,10 @@
 <?php
 
-namespace Pelim\LaravelZmq;
+namespace Vikilaboy\LaravelZmq;
 
 /**
  * Class Zmq
- * @package Pelim\LaravelZmq
+ * @package Vikilaboy\LaravelZmq
  */
 class Zmq
 {

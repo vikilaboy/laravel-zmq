@@ -1,10 +1,10 @@
 <?php
 
-namespace Pelim\LaravelZmq\Connector;
+namespace Vikilaboy\LaravelZmq\Connector;
 
 /**
  * Class ZmqConnector
- * @package Pelim\LaravelZmq\Connector
+ * @package Vikilaboy\LaravelZmq\Connector
  */
 abstract class ZmqConnector
 {

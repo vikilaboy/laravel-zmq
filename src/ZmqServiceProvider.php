@@ -1,15 +1,15 @@
 <?php
 
-namespace Pelim\LaravelZmq;
+namespace Vikilaboy\LaravelZmq;
 
 use Illuminate\Support\ServiceProvider;
-use Pelim\LaravelZmq\Connector\ZmqPublish;
-use Pelim\LaravelZmq\Connector\ZmqSubscribe;
-use Pelim\LaravelZmq\Broadcasting\Broadcaster\ZmqBroadcaster;
+use Vikilaboy\LaravelZmq\Connector\ZmqPublish;
+use Vikilaboy\LaravelZmq\Connector\ZmqSubscribe;
+use Vikilaboy\LaravelZmq\Broadcasting\Broadcaster\ZmqBroadcaster;
 
 /**
  * Class ZmqServiceProvider
- * @package Pelim\LaravelZmq
+ * @package Vikilaboy\LaravelZmq
  */
 class ZmqServiceProvider extends ServiceProvider
 {

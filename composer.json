@@ -16,13 +16,13 @@
     },
     "autoload": {
         "psr-4": {
-            "Pelim\\LaravelZmq\\": "src/"
+            "Vikilaboy\\LaravelZmq\\": "src/"
         }
     },
     "extra": {
         "laravel": {
             "providers": [
-                "Pelim\\LaravelZmq\\ZmqServiceProvider"
+                "Vikilaboy\\LaravelZmq\\ZmqServiceProvider"
             ]
         }
     },
